@@ -24,7 +24,7 @@ A sophisticated book recommendation system that uses natural language processing
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/reyanalam/Recommender.git
 cd Book-Recommender
 ```
 
