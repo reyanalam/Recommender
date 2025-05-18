@@ -11,3 +11,4 @@ streamlit
 ipykernel
 kagglehub
 sentence-transformers
+gradio
