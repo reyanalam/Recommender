@@ -1,5 +1,7 @@
 # Book Recommender System
 
+![Image](https://github.com/user-attachments/assets/7e874e1c-c061-47db-9197-1478cedc9fdc)
+
 A sophisticated book recommendation system that uses natural language processing and emotion analysis to suggest books based on user queries, categories, and desired emotional tones.
 
 ## Features
